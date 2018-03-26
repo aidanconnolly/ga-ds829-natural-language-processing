@@ -26,7 +26,7 @@ Unit 4 : DS Applications | NLP
   
 #### [Topic Modeling LDA (codealong)](./topic_modeling_lda-codealong.ipynb)
   - **Description** : Walkthrough of using an unsupervised Natural Language analysis method; Latent Dirichlet Allocation.
-  - **Difficulty** : Advance
+  - **Difficulty** : Advanced
   - **Length** : Moderate
   - **[Solution](./solution-code/topic_modeling_lda-codealong-solutions.ipynb)**
   - _**Note** : Intended to be an instructor led walkthrough_
